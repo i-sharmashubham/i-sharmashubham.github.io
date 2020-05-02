@@ -6,6 +6,8 @@
 .testimonial-area{
     background-color:#f9f9ff;
     padding-top: 25px;
+    padding-bottom: 25px;
+}
 }
 .testimonial-area .header-text{
     text-align:center;
