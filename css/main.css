@@ -5,6 +5,7 @@
 
 .testimonial-area{
     background-color:#f9f9ff;
+    padding-top: 25px;
 }
 .testimonial-area .header-text{
     text-align:center;
@@ -110,27 +111,28 @@ margin: 0px auto;
 .footer-area{
   background: #d94b38;
   color: white;
+  padding-top: 30px;
 }
 
 .disclaimer{
-  padding: 50px 0 50px 0;
+  padding-bottom: 30px;
 }
 
 .copyright{
-  margin-top: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  font-size: large;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
   background: #a53e30;
 }
 
 address{
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .material-icons{
   position: relative;
-  top:5px;
+  top:8px;
   right:5px;
 }
 
@@ -138,3 +140,15 @@ address{
   color: white;
   opacity: 1; 
 }
+
+.imagedropshadow {
+  padding: 10px;
+  border: solid 1px #CCC;
+  -moz-box-shadow: 1px 1px 10px #999;
+  -webkit-box-shadow: 1px 1px 10px #999;
+  box-shadow: 1px 1px 10px #999;
+  border-radius: 50%;
+  max-height: 250px;
+  max-width: 250px;
+}
+
