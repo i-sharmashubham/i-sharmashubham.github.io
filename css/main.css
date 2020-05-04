@@ -3,6 +3,7 @@
 
 /* testimonial section - By Shubham Sharma - Do Not Remove*/
 
+
 .testimonial-area{
     background-color:#f9f9ff;
     padding-top: 25px;
@@ -152,5 +153,10 @@ address{
   border-radius: 50%;
   max-height: 250px;
   max-width: 250px;
+}
+
+.internfont
+{
+  font-family: 'Patrick Hand', cursive;
 }
 
